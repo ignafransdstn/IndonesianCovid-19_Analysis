@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1597074361517.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6ADA8305",
+    "lastKnownWriteTime" : 7160573210065925989,
+    "last_content_update" : 1597074361517,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "7DA9B4EA",
+        "caption" : "new_cov_kaltim",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=new_cov_kaltim&cache_key=7DA9B4EA",
+        "displayedObservations" : 149,
+        "environment" : "",
+        "object" : "new_cov_kaltim",
+        "preview" : 0,
+        "totalObservations" : 149,
+        "variables" : 4
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
